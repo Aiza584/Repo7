@@ -1,1 +1,9 @@
-# Repo7
+Table
+Chair
+cupboard
+cabinet
+bed
+
+
+
+sofa
